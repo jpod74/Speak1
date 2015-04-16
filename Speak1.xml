@@ -33,7 +33,7 @@
             </value>
             <next>
               <block type="multimedia_playwav" id="142">
-                <field name="WAV">_SndTest.W</field>
+                <field name="WAV">_SndTest.w</field>
               </block>
             </next>
           </block>
